@@ -1,0 +1,102 @@
+# Python / general
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE / editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+.cache/
+.streamlit/secrets.toml
+
+# Environment / secrets (VERY IMPORTANT)
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+*.key
+*.pem
+*.secret
+credentials.json
+
+# Logs and temporary files
+*.log
+*.logs
+*.tmp
+*.bak
+*.swp
+
+# Dependency directories (if you ever use pipenv, poetry, etc.)
+Pipfile.lock
+poetry.lock
+
+# Byte-compiled / optimized files
+*.pyc
+*.pyo
+*.pyd
+
+# macOS junk
+.AppleDouble
+.LSOverride
+Icon?
+
+# Windows junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Testing / coverage
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+*.pytest_cache/
+tox/
+nox/
+.hypothesis/
+
+# Jupyter / notebooks (if you ever experiment)
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Large generated files (optional - uncomment if needed)
+# *.png
+# *.jpg
+# *.wav
+# /generated/*
