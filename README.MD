@@ -22,8 +22,5 @@ Gemini generates interleaved text narrative + images. Google Cloud Text-to-Speec
 3. streamlit run app.py
 
 
-
-**Demo video:** [link to your 1-2 min YouTube/Vimeo video]
-
-output
+https://www.youtube.com/watch?v=LUR_3BkabVQ
 
